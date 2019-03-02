@@ -1,1 +1,54 @@
 
+body, 
+html
+ {
+  background-color: #ffca63;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+.btn-light {
+  color: #fff;
+  background-color: #ee5755;
+  border: none;
+}
+
+.btn-light:hover {
+  color: #ee5755;
+  background-color: #fff;
+  border: none;
+}
+
+.btn-dark {
+  color: #fff;
+  background-color: #ab6754;
+  border: none;
+}
+
+.btn-dark:hover {
+  color: #ab6754;
+  background-color: #fff;
+  border: none;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
